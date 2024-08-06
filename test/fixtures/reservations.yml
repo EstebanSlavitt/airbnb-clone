@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: MyString
+  room_id: MyString
+  start_date: 2024-08-06 11:46:26
+  end_date: 2024-08-06 11:46:26
+  price: 1
+  total: 1
+
+two:
+  user_id: MyString
+  room_id: MyString
+  start_date: 2024-08-06 11:46:26
+  end_date: 2024-08-06 11:46:26
+  price: 1
+  total: 1
