@@ -1,5 +1,6 @@
 json.id room.id
-json.user_id room.user_id
+json.user room.user
+json.room_images room.room_images
 json.address room.address
 json.city room.city
 json.state room.state
